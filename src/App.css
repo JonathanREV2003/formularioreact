@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh; /* Esto centra verticalmente en la página */
+}
+
+form {
+  width: 300px; /* Ajusta el ancho del formulario según tus necesidades */
+}
